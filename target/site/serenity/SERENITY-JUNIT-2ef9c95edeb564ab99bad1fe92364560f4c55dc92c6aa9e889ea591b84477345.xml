@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automate the different methods for creation, get and update of API RESTFUL BOOKER" skipped="0" tests="1" time="4.64" timestamp="2024-06-12 07:15:52"><testcase name="Get Booking"><failure message="&#10;Expected: null&#10;     but: was &quot;andres&quot;" type="java.lang.AssertionError">
+Expected: null
+     but: was "andres"</failure><system-err>
+Expected: null
+     but: was "andres"&#13;
+com.luisautomation.stepdefinitions.ManageBookingStepDefinition.validateResponseWithInformationSavedOfUser(ManageBookingStepDefinition.java:116)&#13;
+✽.validate response with information saved of user(src/test/resources/features/manage_bookings.feature:24)&#13;
+</system-err></testcase></testsuite>

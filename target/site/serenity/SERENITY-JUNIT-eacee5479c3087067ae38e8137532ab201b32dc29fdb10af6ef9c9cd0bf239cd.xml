@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Automate the different methods for creation, get and update of API RESTFUL BOOKER" skipped="0" tests="4" time="7.11" timestamp="2024-06-14 02:29:02"><testcase name="Create Booking success"/><testcase name="Get Booking of client"/><testcase name="Update Booking Existing"/></testsuite>
